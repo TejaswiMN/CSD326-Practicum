@@ -1,0 +1,17 @@
+CSD326 - Software Engineering
+Lab 6
+Tejaswi M
+2110110556
+
+I created sequence diagrams for 3 tasks of my project - Deadline Dealer. The tasks are:
+Login/SignUp
+Create Category
+Create Task
+
+The actor is: User
+Other objects: WebApp, Database
+
+Links:
+1.
+https://online.visual-paradigm.com/community/share/sequence-diagrams-1olloybw6p
+
